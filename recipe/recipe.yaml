@@ -21,6 +21,7 @@ requirements:
     - automake
     - make
     - pkg-config
+    - sed
   host:
     - libvorbis
     - libtool
